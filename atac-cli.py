@@ -5,7 +5,8 @@ except ImportError:
   # Python 3 import
   from xmlrpc.client import Server
 
-from colorama import Fore
+from colorama import Fore,init
+init()
 
 class ataccli:
 
