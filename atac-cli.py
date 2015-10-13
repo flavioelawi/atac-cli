@@ -20,8 +20,7 @@ class bcolors:
 class ataccli:
 
 	def __init__(self):
-    
-    ##########INSERT YOUR DEV KEY HERE#############
+		##########INSERT YOUR DEV KEY HERE#############
 		
 		DEV_KEY = ''
 		
