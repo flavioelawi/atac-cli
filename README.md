@@ -6,3 +6,5 @@ Per utilizzare questo script è necessario avere una chiave sviluppatore come in
 http://www.agenziamobilita.roma.it/it/progetti/open-data/api-real-time.html
 
 http://muovi.roma.it/dev/key
+
+Compatibile Python2.7 , 3 WIP
