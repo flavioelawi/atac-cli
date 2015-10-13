@@ -8,3 +8,9 @@ http://www.agenziamobilita.roma.it/it/progetti/open-data/api-real-time.html
 http://muovi.roma.it/dev/key
 
 Compatibile Python2.7 , 3 WIP
+
+Usage:
+  python atac-cli.py linea 554 
+  
+  # restituisce le fermate della linea 554 in entrambe le direzioni con la posizione degli autobus segnata in rosso
+  
